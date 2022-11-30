@@ -1,7 +1,7 @@
 ### Hi there, I'm a front-end developer  👋
 <div style="display: inline_block"><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-a-jr&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-a-jr&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-a-jr&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-a-jr&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
   
