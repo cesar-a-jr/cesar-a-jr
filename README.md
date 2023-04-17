@@ -1,6 +1,6 @@
 ### Hi there, I'm a front-end developer  👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-a-jr&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-a-jr&show_icons=true)
 
 
   
