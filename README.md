@@ -1,9 +1,4 @@
 ### Hi there, I'm a front-end developer  👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-a-jr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-a-jr)]
-
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
